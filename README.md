@@ -14,7 +14,12 @@ Today I worked on my **Air Quality Prediction project** as a beginner learning d
 - Performed basic Exploratory Data Analysis (EDA): histogram of CO levels and correlation heatmap  
 - Built my first machine learning model (Linear Regression) to predict CO(GT) using T, RH, AH  
 - Printed R² Score and Mean Squared Error (MSE)  
-- Prepared a beginner-friendly README.md and started a daily log to track learning progress  
+- Prepared a beginner-friendly README.md and started a daily log to track learning progress
+
+## 📚 Resources & References
+
+### Dataset
+- [UCI Air Quality Dataset on Kaggle](https://www.kaggle.com/datasets/dakshbhalala/uci-air-quality-dataset)
 
 This marks the **first version** of my project, ready to push to GitHub.
 
