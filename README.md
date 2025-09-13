@@ -23,6 +23,14 @@ Today I worked on my **Air Quality Prediction project** as a beginner learning d
 
 This marks the **first version** of my project, ready to push to GitHub.
 
+### 🗓️ Day 2
+- Built my **first machine learning model (Linear Regression)**  
+- Trained it to predict CO(GT) values using Temperature (T), Relative Humidity (RH), and Absolute Humidity (AH)  
+- Evaluated the model using R² Score and Mean Squared Error (MSE)  
+- Created a visualization: **Actual vs Predicted CO(GT)** scatter plot  
+- Learned how to compare predictions with real-world values  
+
+
 
 ---
 
