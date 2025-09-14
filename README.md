@@ -30,6 +30,13 @@ This marks the **first version** of my project, ready to push to GitHub.
 - Created a visualization: **Actual vs Predicted CO(GT)** scatter plot  
 - Learned how to compare predictions with real-world values  
 
+### 📅 Day 3 - Data Cleaning Fix
+
+- Faced a **KeyError: 'Date'** while cleaning data.  
+- Found the issue: I used `sep=";"` but the dataset is comma-separated.  
+- Fixed by using `sep=","` in `read_csv` and stripping column names.  
+- Now `Date` and `Time` load correctly.  
+- Key learning: always check column names after reading a CSV.
 
 
 ---
