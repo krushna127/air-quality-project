@@ -38,6 +38,11 @@ This marks the **first version** of my project, ready to push to GitHub.
 - Now `Date` and `Time` load correctly.  
 - Key learning: always check column names after reading a CSV.
 
+### Day 4
+- Learned Git branching (`git branch`, `git checkout -b`, `git merge`)  
+- Created and pushed a feature branch to GitHub  
+- Practiced data visualization with Matplotlib (line, bar, scatter, histogram)  
+- Committed visualization notebook to GitHub  
 
 ---
 
