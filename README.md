@@ -38,11 +38,20 @@ This marks the **first version** of my project, ready to push to GitHub.
 - Now `Date` and `Time` load correctly.  
 - Key learning: always check column names after reading a CSV.
 
-### Day 4
+### 📅 Day 4
 - Learned Git branching (`git branch`, `git checkout -b`, `git merge`)  
 - Created and pushed a feature branch to GitHub  
 - Practiced data visualization with Matplotlib (line, bar, scatter, histogram)  
 - Committed visualization notebook to GitHub  
+
+## 📅 Day 5 - First Prediction Model
+
+- Selected `CO(GT)` as the target for air quality prediction.
+- Used gas sensor values, temperature, and other features as inputs.
+- Trained a **Linear Regression model**.
+- Evaluated performance with **Mean Squared Error (MSE)** and **R² score**.
+- Plotted **Actual vs Predicted CO(GT)** values.
+- Key Learning: My first model works but needs improvement (MSE is still high).
 
 ---
 
